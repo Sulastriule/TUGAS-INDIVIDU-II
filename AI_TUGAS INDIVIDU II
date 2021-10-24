@@ -1,0 +1,46 @@
+Assalamualaikum Warrohmatullahi wabarokatu... 
+Nama Saya sulastri dari universitas teknologi sumbawa. 
+
+Ok lanjut Disini Saya akan menjawab soal tugas INDIVIDU II.
+NEXT.... 
+
+TUGAS INDIVIDU II
+1. cari ttg PYTHON.
+   JAWAB: python adalah salah satu bahasa pemrograman yg mudah untuk dipahami sintaxnyasintaxnya. 
+
+2. apa itu Pemrograman Language, dan sebutkan contoh.?
+   JAWAB: pemrograman Language adalah bahasa yang digunakan untuk mengendalikan mesin/komputer,contohnya python itu sendiri
+
+3. perbedaan dari Markup Language apa? dan sebutkan contoh.?
+   JAWAB: markup language adalah sebuah bahasa komputer yg menggunakan tags atau tanda untuk mengatur tampilan texs.
+   Contoh: HTML,KML,MATHML,SGML,XHTML,XML
+
+4. perbedaan pemrograman konvensional dan visual. dan sebutkan contoh.?
+   JAWAB: pemrograman konvensional adalah pemrograman yg terstruktur atau berbasis teks, contoh C++ dan pascal, java, python 
+          Sedangkan pemrograman visual adalah pemrograman yang mendukung konsep OOP contohnya, Borlan delpi, dasar visual 
+
+5. perbedaan dari hard code dan soft code. dan sebutkan contoh.?
+   JAWAB: hard code: menuliskan kode dengan memasukkan data secara langsung dikode atau disumber. Kode keras tidak bisa diubah
+          sedangkan softcode : yaitu pernyataan pemisah masalah, softcode juga bisa diubah. 
+
+6. perbedaan interpreter dan compailer. dan sebutkan contoh.?
+   JAWAB: Perbedaannya adalah ketika kita menggunakan compiler, kode sumber akan dikonversi menjadi machine code sebelum program tersebut dijalankan. Sedangkan interpreter mengonversi source code menjadi machine code secara langsung ketika program dijalankan.
+
+7. perbedaan python dengan PL lainnya.?
+   JAWAB: perbedaan yang membedakan antara python dengan bahasa program lainnya adalah python tidak menggunakan kode titik koma diakhir. 
+
+8. perbedaan IDE dan Text Editor? contoh.?
+   JAWAB: perbedaan IDE dan editor teks 
+   IDE : IDE memiliki compiler dan juga ada editornya sedangkan 
+   editor teks : hanya untuk teks biasa 
+   Contohnya: peralatan tukang yang lengkap.
+
+9. sebutkan IDE khusus untuk python dan text editor untuk python ?
+   JAWAB: untuk python IDE: Pycharm, Pydev, kode studio visual
+          editor teks: debungging, pemformatan kode otomatis, penyorotan sintaks 
+
+10. perbedaan bahasa natural, algoritma, flowchart, dan pseudocode.?
+   JAWAB: perbedaan bahasa algoritma natural, pseudocode, flowchart bahasa natural 
+          algoritma : ditulis dengan bahasa yang kita gunakan sehari-hari (bahasa indonesia),atau bahasa apapun yang dapat dijangkau.
+          pseudocode: menggunakan pendekatan bahasa pemrograman pascal
+          flowchart : suatu bagan dengan simbol-simbol tertentu yang menggambarkan urutan proses secara mendetail . 
